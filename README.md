@@ -1,0 +1,1 @@
+# checkout_validation_rule
